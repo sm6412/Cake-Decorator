@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pineapple
+  - cake
+  - jellybean
+  - strawberry
+  - cookie
+  - candy
+  - chocolate
+  - start
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - conveyer
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3828606775
+    locked: 0
+  - name: Conveyer
+    uniqueID: 560377221
+    locked: 0
+  - name: Cake
+    uniqueID: 430393017
+    locked: 0
+  - name: Topping
+    uniqueID: 1390310597
+    locked: 0
+  - name: Text
+    uniqueID: 3697836029
+    locked: 0
